@@ -2,21 +2,21 @@
   "home": [
     {
       "id": "banner_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_001.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_principal.svg",
       "titulo": "Atrapados en la Zona",
       "subtitulo": "Puro calor del bueno",
       "url": "https://www.atrapadosenlazona.com"
     },
     {
       "id": "banner_002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_002.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_uabc.svg",
       "titulo": "Sorteos UABC",
       "subtitulo": "Construimos sueños",
       "url": "https://www.sorteosuabc.mx"
     },
     {
       "id": "banner_003",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_003.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_roadrunner.svg",
       "titulo": "60 Aniversario Road Runners",
       "subtitulo": "Próximamente",
       "url": ""
@@ -25,17 +25,17 @@
   "radio": [
     {
       "id": "banner_r001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_r001.jpg",
-      "titulo": "Atrapados en la Zona",
-      "subtitulo": "Puro calor del bueno",
-      "url": "https://www.atrapadosenlazona.com"
-    },
-    {
-      "id": "banner_r002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_r002.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_uabc.svg",
       "titulo": "Sorteos UABC",
       "subtitulo": "Construimos sueños",
       "url": "https://www.sorteosuabc.mx"
+    },
+    {
+      "id": "banner_r002",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_roadrunner.svg",
+      "titulo": "60 Aniversario Road Runners",
+      "subtitulo": "Próximamente",
+      "url": ""
     }
   ]
 }
