@@ -9,7 +9,7 @@ Repositorio de recursos estáticos y datos de contenido para la app móvil **Atr
 ## Estructura de carpetas
 
 ```
-atrapados-assets/
+atrapados/
 ├── 📁 data/
 │   ├── banners.json          # Banners del carrusel publicitario
 │   ├── eventos.json          # Próximos eventos
@@ -28,13 +28,13 @@ atrapados-assets/
 Todos los archivos se acceden mediante la URL raw de GitHub:
 
 ```
-https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/
+https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/
 ```
 
 Ejemplos:
 ```
-https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/data/eventos.json
-https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/images/eventos/roadrunner.jpg
+https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/data/eventos.json
+https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/roadrunner.jpg
 ```
 
 ---
@@ -49,7 +49,7 @@ Banners del carrusel publicitario. Se usan en la página de Inicio y en la pági
   "home": [
     {
       "id": "banner_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/images/banners/banner_001.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_001.jpg",
       "titulo": "Nombre del Sponsor",
       "subtitulo": "Tagline del sponsor",
       "url": "https://www.sitiowebdelsponsor.com"
@@ -58,7 +58,7 @@ Banners del carrusel publicitario. Se usan en la página de Inicio y en la pági
   "radio": [
     {
       "id": "banner_r001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/images/banners/banner_r001.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_r001.jpg",
       "titulo": "Nombre del Sponsor",
       "subtitulo": "Tagline del sponsor",
       "url": "https://www.sitiowebdelsponsor.com"
@@ -77,7 +77,7 @@ Lista de próximos eventos. La fecha de inicio y fin se usan para agregar el eve
   "eventos": [
     {
       "id": "evento_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/images/eventos/evento_001.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_001.jpg",
       "titulo": "Nombre del Evento",
       "fecha": "MAYO 17",
       "lugar": "Nombre del lugar, Ciudad",
@@ -99,7 +99,7 @@ Lista de patrocinadores con información de contacto y redes sociales.
   "sponsors": [
     {
       "id": "sponsor_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados-assets/main/images/sponsors/sponsor_001.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/sponsor_001.svg",
       "nombre": "Nombre del Sponsor",
       "descripcion": "Descripción del sponsor.",
       "sitioWeb": "https://www.sitiowebdelsponsor.com",
