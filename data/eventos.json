@@ -2,7 +2,7 @@
   "eventos": [
     {
       "id": "evento_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_001.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_roadrunner.png",
       "titulo": "60 Aniversario Club Road Runner",
       "fecha": "MAYO 17",
       "lugar": "Parque Benito Juárez (Palaco)",
@@ -12,7 +12,7 @@
     },
     {
       "id": "evento_002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_002.jpg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_zopilotes.png",
       "titulo": "Zopilotes Classic Rock",
       "fecha": "MAYO 20",
       "lugar": "Lazarini Salón de Eventos",
