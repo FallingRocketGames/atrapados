@@ -2,7 +2,7 @@
   "sponsors": [
     {
       "id": "sponsor_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/central_licorera.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/central_licorera.png",
       "nombre": "Central Licorera",
       "descripcion": "Tu tienda de licores favorita en Mexicali y Tijuana.",
       "sitioWeb": "https://www.centrallicorera.com",
@@ -13,7 +13,7 @@
     },
     {
       "id": "sponsor_002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/mandolino.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/mandolino.png",
       "nombre": "Mandolino Ristorante",
       "descripcion": "Autentica comida Italiana, Fundado en 1974, Mexicali, Baja California.",
       "sitioWeb": "https://www.mandolino.com",
@@ -24,7 +24,7 @@
     },
     {
       "id": "sponsor_003",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/sorteosuabc.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/sorteosuabc.png",
       "nombre": "Sorteos UABC",
       "descripcion": "Construimos sueños.",
       "sitioWeb": "https://www.sorteosuabc.mx",
@@ -35,7 +35,7 @@
     },
     {
       "id": "sponsor_004",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/topeteairbags.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/topeteairbags.png",
       "nombre": "Topete Airbags",
       "descripcion": "Reparación de sistema de bolsas de aire (AIRBAG) y cinturones de seguridad, cambio de cerpentina.",
       "sitioWeb": "",
@@ -46,7 +46,7 @@
     },
     {
       "id": "sponsor_005",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/tonkar.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/tonkar.png",
       "nombre": "Desmanteladora Tonkar",
       "descripcion": "Encuentra la pieza que necesitas sin perder tiempo. Ven a Desmanteladora Tonkar en Mexicali o contáctanos por WhatsApp.",
       "sitioWeb": "",
@@ -57,7 +57,7 @@
     },
     {
       "id": "sponsor_006",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/propinturas.svg",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/propinturas.png",
       "nombre": "Propinturas y Herramientas",
       "descripcion": "Contamos con pintura automotriz, industrial, de carpintería y arquitectónica, aerosoles, barnices para madera, herramientas, adhesivos, selladores, impermeabilizantes, silicones, accesorios y complementos, servicio de igualación de colores y más.",
       "sitioWeb": "",
