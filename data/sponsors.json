@@ -1,5 +1,5 @@
 {
-  "version":1,
+  "version":2,
   "sponsors": [
     {
       "id": "sponsor_001",
@@ -47,14 +47,14 @@
     },
     {
       "id": "sponsor_005",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/tonkar.png",
-      "nombre": "Desmanteladora Tonkar",
-      "descripcion": "Encuentra la pieza que necesitas sin perder tiempo. Ven a Desmanteladora Tonkar en Mexicali o contáctanos por WhatsApp.",
-      "sitioWeb": "",
-      "facebook": "https://www.facebook.com/p/Tonkar-Desmanteladora-100054608312239",
-      "instagram": "",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/imperial.png",
+      "nombre": "Control de Plagas Imperial",
+      "descripcion": "Manejo integral de plagas",
+      "sitioWeb": "https://controldeplagasimperial.com.mx/",
+      "facebook": "https://www.facebook.com/controldeplagasimperial/",
+      "instagram": "https://www.instagram.com/imperialplagas/",
       "tiktok": "",
-      "whatsapp": "526862711344"
+      "whatsapp": ""
     },
     {
       "id": "sponsor_006",
@@ -65,6 +65,39 @@
       "facebook": "https://www.facebook.com/propinturasyherramientas",
       "instagram": "",
       "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_007",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/larguchonas.png",
+      "nombre": "Larguchonas",
+      "descripcion": "¡Las mejores Flautas!",
+      "sitioWeb": "https://larguchonas.com/",
+      "facebook": "https://www.facebook.com/LarguchonasLasOriginales/",
+      "instagram": "https://www.instagram.com/_larguchonas/",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_008",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/repacs.png",
+      "nombre": "Repacs, Lo instalamos todo",
+      "descripcion": "Reparación de sistemas de aire acondicionado y calefacción.",
+      "sitioWeb": "https://repacs.com/",
+      "facebook": "https://www.facebook.com/RepacsMexicali/",
+      "instagram": "https://www.instagram.com/repacs.mxli/",
+      "tiktok": "https://www.tiktok.com/@repacs.servicios",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_009",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/mexicali.png",
+      "nombre": "Gobierno de Mexicali",
+      "descripcion": "Gobierno de Mexicali, uniendo esfuerzos.",
+      "sitioWeb": "https://www.mexicali.gob.mx/",
+      "facebook": "https://www.facebook.com/gobiernodemexicali/",
+      "instagram": "https://www.instagram.com/gobiernodemxl/",
+      "tiktok": "https://www.tiktok.com/@gobiernodemxl",
       "whatsapp": ""
     }
   ]
