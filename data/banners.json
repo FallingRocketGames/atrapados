@@ -1,5 +1,5 @@
 {
-  "version":1,
+  "version":2,
   "home": [
     {
       "id": "banner_001",
@@ -10,33 +10,110 @@
     },
     {
       "id": "banner_002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_uabc.png",
-      "titulo": "Sorteos UABC",
-      "subtitulo": "Construimos sueños",
-      "url": "https://www.sorteosuabc.mx"
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/central_licorera.png",
+      "titulo": "Central Licorera",
+      "subtitulo": "",
+      "url": "https://www.instagram.com/central.licoreramxl/"
     },
     {
       "id": "banner_003",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_roadrunner.png",
-      "titulo": "60 Aniversario Road Runners",
-      "subtitulo": "Próximamente",
-      "url": ""
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/larguchonas.png",
+      "titulo": "Larguchonas",
+      "subtitulo": "",
+      "url": "https://larguchonas.com/"
+    },
+    {
+      "id": "banner_004",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/mandolino.png",
+      "titulo": "Mandolino Ristorante",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/mandolinorestaurante/"
+    },
+    {
+      "id": "banner_005",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/plagas_imperial.png",
+      "titulo": "Control de Plagas Imperial",
+      "subtitulo": "",
+      "url": "https://controldeplagasimperial.com.mx/"
+    },
+    {
+      "id": "banner_006",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/propinturas.png",
+      "titulo": "Propinturas y Herramientas",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/propinturasyherramientas/"
+    },
+    {
+      "id": "banner_007",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/repacs.png",
+      "titulo": "Repacs",
+      "subtitulo": "",
+      "url": "https://repacs.com/"
+    },
+    {
+      "id": "banner_008",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/topete_airbags.png",
+      "titulo": "Topete Airbags",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/topeteairbags/?locale=es_LA"
     }
   ],
   "radio": [
     {
       "id": "banner_r001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_uabc.png",
-      "titulo": "Sorteos UABC",
-      "subtitulo": "Construimos sueños",
-      "url": "https://www.sorteosuabc.mx"
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_principal.png",
+      "titulo": "Atrapados en la Zona",
+      "subtitulo": "Puro calor del bueno",
+      "url": "https://www.atrapadosenlazona.com"
     },
     {
       "id": "banner_r002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/banner_roadrunner.png",
-      "titulo": "60 Aniversario Road Runners",
-      "subtitulo": "Próximamente",
-      "url": ""
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/central_licorera.png",
+      "titulo": "Central Licorera",
+      "subtitulo": "",
+      "url": "https://www.instagram.com/central.licoreramxl/?hl=es"
+    },
+    {
+      "id": "banner_r003",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/larguchonas.png",
+      "titulo": "Larguchonas",
+      "subtitulo": "",
+      "url": "https://larguchonas.com/"
+    },
+    {
+      "id": "banner_r004",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/mandolino.png",
+      "titulo": "Mandolino Ristorante",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/mandolinorestaurante/"
+    },
+    {
+      "id": "banner_r005",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/plagas_imperial.png",
+      "titulo": "Control de Plagas Imperial",
+      "subtitulo": "",
+      "url": "https://controldeplagasimperial.com.mx/"
+    },
+    {
+      "id": "banner_r006",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/propinturas.png",
+      "titulo": "Propinturas y Herramientas",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/propinturasyherramientas/"
+    },
+    {
+      "id": "banner_r007",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/repacs.png",
+      "titulo": "Repacs",
+      "subtitulo": "",
+      "url": "https://repacs.com/"
+    },
+    {
+      "id": "banner_r008",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/banners/topete_airbags.png",
+      "titulo": "Topete Airbags",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/topeteairbags/?locale=es_LA"
     }
   ]
 }
