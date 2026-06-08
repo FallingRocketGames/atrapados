@@ -10,16 +10,6 @@
       "descripcion": "Celebración del 60 aniversario del Club Road Runner.",
       "fechaInicio": "2026-05-17T10:00:00",
       "fechaFin": "2026-05-17T17:00:00"
-    },
-    {
-      "id": "evento_002",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_zopilotes.png",
-      "titulo": "Zopilotes Classic Rock",
-      "fecha": "MAYO 20",
-      "lugar": "Lazarini Salón de Eventos",
-      "descripcion": "Vuelve a recordar los clásicos del rock con los Zopilotes",
-      "fechaInicio": "2026-05-20T20:00:00",
-      "fechaFin": "2026-05-20T23:00:00"
-    }
+    }    
   ]
 }
