@@ -1,15 +1,15 @@
 {
-  "version":1,
+  "version":2,
   "eventos": [
     {
-      "id": "evento_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/evento_roadrunner.png",
-      "titulo": "60 Aniversario Club Road Runner",
-      "fecha": "MAYO 17",
-      "lugar": "Parque Benito Juárez (Palaco)",
-      "descripcion": "Celebración del 60 aniversario del Club Road Runner.",
-      "fechaInicio": "2026-05-17T10:00:00",
-      "fechaFin": "2026-05-17T17:00:00"
+      "id": "evento_julissa",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/julissa.png",
+      "titulo": "ACOUSTIC NIGHT en apoyo a Julissa",
+      "fecha": "MIÉRCOLES 10 DE JUNIO",
+      "lugar": "AMANTE BREW COMPANY - José Ma. Larroque 1700, Colonia Nueva, Mexicali, Baja California",
+      "descripcion": "No habrá cover. La entrada es libre, pero estaremos recibiendo donativos durante toda la noche. \n Habrá cajitas de apoyo circulando durante el evento y, si está dentro de tus posibilidades, sugerimos una aportación de $100 pesos o más pero cualquier cantidad ayuda y suma. \n Si no puedes asistir y deseas apoyar, también puedes realizar una transferencia a la cuenta: \n Julissa Luna Rodríguez \n CLABE: 072020011837929199 \n Banorte",
+      "fechaInicio": "2026-06-10T19:00:00",
+      "fechaFin": "2026-06-10T23:00:00"
     }    
   ]
 }
