@@ -10,6 +10,16 @@
       "descripcion": "No habrá cover. La entrada es libre, pero estaremos recibiendo donativos durante toda la noche. \n Habrá cajitas de apoyo circulando durante el evento y, si está dentro de tus posibilidades, sugerimos una aportación de $100 pesos o más pero cualquier cantidad ayuda y suma. \n Si no puedes asistir y deseas apoyar, también puedes realizar una transferencia a la cuenta: \n Julissa Luna Rodríguez \n CLABE: 072020011837929199 \n Banorte",
       "fechaInicio": "2026-06-10T19:00:00",
       "fechaFin": "2026-06-10T23:00:00"
-    }    
+    },
+    {
+      "id": "rock_war",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/rock_war.png",
+      "titulo": "ROCK WAR SONGS, Entre sorbo y sorbo",
+      "fecha": "MIÉRCOLES 10 DE JUNIO",
+      "lugar": "Atrapadosenlazona.com (en línea)",
+      "descripcion": "🚨 ¡Tenemos una cita!\nConéctate con el SUNSHINE II y con PANCHO Padilla para disfrutar del mejor ROCK de nuestras vidas. Sintoniza en vivo y sé parte de la conversación.\n🌐 Escúchanos en todo el mundo en: atrapadosenlazona.com\n⏰ Horarios este miércoles 10 de junio:\n• 11:30 AM | Pacific Time 🧭\n• 1:30 PM | Central Time 🏢\n• 2:30 PM | Eastern Time 🏙️\n¡Prepara tus audífonos y conéctate a la hora de tu zona! 🎧✨\n¿Quieres contactarnos? Hazlo vía Whatsapp al +52(686)1075118 🤘🏼",
+      "fechaInicio": "2026-06-10T11:30:00",
+      "fechaFin": "2026-06-10T13:30:00"
+    }        
   ]
 }
