@@ -2,28 +2,16 @@
   "version":2,
   "eventos": [    
     {
-      "id": "update",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/update.png",
-      "titulo": "ACTUALIZACIÓN DISPONIBLE",
-      "fecha": "",
-      "lugar": "Google Play Store",
-      "descripcion": "Descarga la última actualización de Atrapados para disfrutar de nuevas funciones. ¡Mantente al día con la mejor experiencia de Atrapados en la Zona!",
-      "url": "https://play.google.com/store/apps/details?id=com.fallingrocketgames.atrapadosenlazona",
-      "urlTexto": "Clic para Descargar actualización",
+      "id": "no_event",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/sin_eventos.png",
+      "titulo": "NO HAY EVENTOS PROGRAMADOS",
+      "fecha": "Próximamente",
+      "lugar": "AtrapadosEnLaZona.com",
+      "descripcion": "No hay eventos programados por el momento.\n¿Quieres contactarnos? Hazlo vía Whatsapp al +52(686)1075118 🤘🏼",
+      "url": "https://www.facebook.com/AtrapadosEnLaZona",
+      "urlTexto": "Atrapados en la Zona en Facebook",
       "fechaInicio": "",
       "fechaFin": ""
-    },
-    {
-      "id": "operas",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/operas.png",
-      "titulo": "ROCK ÓPERAS que hicieron historia",
-      "fecha": "17 de Julio de 2026",
-      "lugar": "AtrapadosEnLaZona.com",
-      "descripcion": "ROCK ÓPERAS que hicieron historia. Conéctate con el SUNSHINE II y con PANCHO Padilla para platicar de ellas y disfrutar del mejor ROCK de nuestras vidas. Sintoniza en vivo.\n🌐 Escúchanos en todo el mundo en: atrapadosenlazona.com\n⏰ Horarios este miércoles 17 de junio:\n• 11:30 AM | Pacific Time\n• 12:30 PM | Central Time\n• 3:30 PM | Eastern • 12:30 PM\n• 3:30 PM | Montevideo\n• 8:30 PM | Madrid\n¡Prepara tus audífonos y conéctate! 🎧✨\n¿Quieres contactarnos? Hazlo vía Whatsapp al +52(686)1075118",
-      "url": "https://www.facebook.com/share/1GuYb1VBK4/",
-      "urlTexto": "Facebook",
-      "fechaInicio": "2026-06-17T11:30:00",
-      "fechaFin": "2026-06-17T13:30:00"
-    }                
+    }
   ]
 }
