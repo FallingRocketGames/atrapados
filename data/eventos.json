@@ -2,16 +2,16 @@
   "version":2,
   "eventos": [    
     {
-      "id": "no_event",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/sin_eventos.png",
-      "titulo": "NO HAY EVENTOS PROGRAMADOS",
-      "fecha": "Próximamente",
-      "lugar": "AtrapadosEnLaZona.com",
-      "descripcion": "No hay eventos programados por el momento.\n¿Quieres contactarnos? Hazlo vía Whatsapp al +52(686)1075118 🤘🏼",
-      "url": "https://www.facebook.com/AtrapadosEnLaZona",
+      "id": "gira",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/eventos/gira.png",
+      "titulo": "ATR's en Gira!!! Convivencia de Atrapados!!!",
+      "fecha": "Sábado 11 de Julio",
+      "lugar": "Café Literario del Teatro del Estado",
+      "descripcion": "TWO OF US Rock Acústico con Iván y Benjamín nos acompañan el próximo Sábado 11 de Julio en el Café Literario del Teatro del Estado. \nCupo Limitado 80 personas. \nMayores Informes InBox o manda tu WhatsApp al 686 167 81 46 \nCooperación $ 500.00 pesos",
+      "url": "https://www.facebook.com/share/p/1Ba5sh1wut/",
       "urlTexto": "Atrapados en la Zona en Facebook",
-      "fechaInicio": "",
-      "fechaFin": ""
+      "fechaInicio": "2026-07-11T20:00:00",
+      "fechaFin": "2026-07-11T23:00:00"
     }
   ]
 }
